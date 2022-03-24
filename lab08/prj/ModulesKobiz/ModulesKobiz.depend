@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1648149154 source:c:\users\bobik\desktop\bmtp\lab08\kobiz-andrii-kb-21\lab08\prj\moduleskobiz\main.cpp
+	<cmath>
+	<iomanip>
+	<iostream>
+
