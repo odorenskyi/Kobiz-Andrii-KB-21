@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1648149141 source:c:\users\bobik\desktop\bmtp\lab08\kobiz-andrii-kb-21\lab08\prj\testdriver\main.cpp
+	<iostream>
+	<ModulesKobiz.h>
+
