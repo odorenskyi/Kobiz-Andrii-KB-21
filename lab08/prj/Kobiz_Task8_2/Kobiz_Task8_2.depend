@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1648031591 source:c:\users\bobik\desktop\bmtp\lab08\kobiz-andrii-kb-21\lab08\prj\kobiz_task8_2\main.cpp
+	<iostream>
+	<stdlib.h>
+	<locale.h>
+	<ModulesKobiz.h>
+
